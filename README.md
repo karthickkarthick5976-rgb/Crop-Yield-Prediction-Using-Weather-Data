@@ -54,11 +54,6 @@ Crop-Yield-Prediction/
 
 ---
 
-## 🚀 How to Run the Project
-
-### 1️⃣ Install Dependencies
-```bash
-
 📈 Output
 
 Scatter plots showing weather vs crop yield
